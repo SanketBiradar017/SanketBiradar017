@@ -152,20 +152,6 @@ Generative AI applications and scalable backend systems.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SanketBiradar017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketBiradar017&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🧠 AI Engineering Architecture
 
 ```text
