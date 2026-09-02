@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SanketBiradar017/SanketBiradar017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./ai-banner.png" width="100%" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sanket Biradar
+
+### AI Engineer | GenAI Developer | Backend Engineer
+
+Building intelligent systems with LLMs, AI Agents & scalable backend architectures.
+
+</div>
