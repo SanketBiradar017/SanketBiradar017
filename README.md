@@ -12,7 +12,7 @@ Building production-ready Generative AI and backend systems with Python, FastAPI
 <a href="https://github.com/SanketBiradar017">
 <img src="https://img.shields.io/badge/GitHub-SanketBiradar017-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/in/sanketbiradar">
+<a href="https://www.linkedin.com/in/sanket_biradar">
 <img src="https://img.shields.io/badge/LinkedIn-Sanket_Biradar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sanketbiradar007@gmail.com">
@@ -28,7 +28,7 @@ Building production-ready Generative AI and backend systems with Python, FastAPI
 
 ## 👨‍💻 Professional Summary
 
-AI/GenAI Engineer with **1.6+ years of experience** building and deploying production-grade Generative AI and backend systems using **Python and FastAPI**.
+AI/GenAI Engineer with **experience in** building and deploying production-grade Generative AI and backend systems using **Python and FastAPI**.
 
 Hands-on experience developing **RAG pipelines, LLM applications, LangChain, LangGraph, multi-agent systems, agent orchestration, and vector search solutions**.
 
@@ -111,153 +111,6 @@ Strong focus on **LLM orchestration, backend architecture, performance optimizat
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
-
-# 🚀 Featured Projects
-
-## 📧 AutoMail
-
-**Intelligent Email Automation System**
-
-AI-powered email automation platform integrating Gmail API, Google OAuth 2.0, FastAPI and Gemini to generate and send professional emails.
-
-**Key Features**
-
-- Gmail API integration
-- Google OAuth 2.0 authentication
-- AI-powered email generation
-- Email editing and preview
-- To / CC / BCC support
-- Attachments
-- Templates
-- Scheduling and recurring emails
-
-**Tech Stack**
-
-`Python` `FastAPI` `Gmail API` `OAuth 2.0` `Gemini` `LangChain`
-
-[View Repository →](https://github.com/SanketBiradar017/automail)
-
----
-
-## 🧠 LangGraph Chatbot
-
-**Stateful AI Chatbot with Agent Workflows**
-
-AI chatbot demonstrating stateful conversations, workflow orchestration, memory and intelligent routing using LangGraph.
-
-**Key Concepts**
-
-- Stateful AI workflows
-- Agent routing
-- Conversation memory
-- LLM orchestration
-- Graph-based execution
-
-**Tech Stack**
-
-`Python` `LangGraph` `LLMs` `FastAPI`
-
-[View Repository →](https://github.com/SanketBiradar017/LangGraph-Chatbot)
-
----
-
-## 📚 ContextQA
-
-**AI Question Answering System**
-
-Context-aware Question Answering system designed to answer user questions using provided contextual information.
-
-**Key Concepts**
-
-- Context-based Question Answering
-- Transformer-based NLP
-- API-based architecture
-- Frontend integration
-
-**Tech Stack**
-
-`Python` `Transformers` `FastAPI` `JavaScript`
-
-[View Repository →](https://github.com/SanketBiradar017/ContextQA)
-
----
-
-## 🤖 AutoGen
-
-**Multi-Agent AI System**
-
-Multi-agent application demonstrating agent collaboration, conversational workflows and autonomous task execution.
-
-**Key Concepts**
-
-- Multi-agent conversations
-- Agent collaboration
-- Task orchestration
-- LLM-powered agents
-
-**Tech Stack**
-
-`Python` `AutoGen` `LLMs`
-
-[View Repository →](https://github.com/SanketBiradar017/AutoGen)
-
----
-
-## 👥 CrewAI
-
-**Role-Based Multi-Agent System**
-
-Multi-agent AI application using role-based agents to collaborate and execute tasks through coordinated workflows.
-
-**Key Concepts**
-
-- Role-based agents
-- Agent collaboration
-- Task delegation
-- Multi-agent workflows
-
-**Tech Stack**
-
-`Python` `CrewAI` `LLMs`
-
-[View Repository →](https://github.com/SanketBiradar017/CrewAI)
-
----
-
-## ✨ LangChain Summarizer
-
-**LLM-Powered Text Summarization**
-
-Text summarization application using LangChain and an LLM to generate concise summaries from provided content.
-
-**Key Concepts**
-
-- Prompt templates
-- LLM integration
-- LangChain chains
-- Text summarization
-
-**Tech Stack**
-
-`Python` `LangChain` `LLMs`
-
-[View Repository →](https://github.com/SanketBiradar017/LangChain-Summarizer)
-
----
-
-## 📊 Student Exam Score Prediction
-
-**Machine Learning Prediction System**
-
-Machine learning project designed to predict student exam scores using regression-based approaches.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Machine Learning`
-
-[View Repository →](https://github.com/SanketBiradar017/Student-exam-score-prediction-)
 
 ---
 
